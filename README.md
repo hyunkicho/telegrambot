@@ -14,5 +14,10 @@ make .env with
 TOKEN=
 ```
 
+start with
+```
+npm run demo
+```
+
 자세한 설명은 아래 블로그 링크를 참고해 주세요
 https://it-timehacker.tistory.com/447 
